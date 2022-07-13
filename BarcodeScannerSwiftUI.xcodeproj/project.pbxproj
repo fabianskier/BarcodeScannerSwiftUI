@@ -12,6 +12,7 @@
 		073C1453287F3D3E001B4BA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 073C1452287F3D3E001B4BA6 /* Assets.xcassets */; };
 		073C1456287F3D3E001B4BA6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 073C1455287F3D3E001B4BA6 /* Preview Assets.xcassets */; };
 		073C145D287F4290001B4BA6 /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C145C287F4290001B4BA6 /* ScannerViewController.swift */; };
+		073C145F287F4E56001B4BA6 /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C145E287F4E56001B4BA6 /* ScannerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		073C1452287F3D3E001B4BA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		073C1455287F3D3E001B4BA6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		073C145C287F4290001B4BA6 /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
+		073C145E287F4E56001B4BA6 /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				073C144E287F3D3E001B4BA6 /* BarcodeScannerSwiftUIApp.swift */,
 				073C1450287F3D3E001B4BA6 /* BarcodeScannerView.swift */,
 				073C145C287F4290001B4BA6 /* ScannerViewController.swift */,
+				073C145E287F4E56001B4BA6 /* ScannerView.swift */,
 				073C1452287F3D3E001B4BA6 /* Assets.xcassets */,
 				073C1454287F3D3E001B4BA6 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				073C1451287F3D3E001B4BA6 /* BarcodeScannerView.swift in Sources */,
+				073C145F287F4E56001B4BA6 /* ScannerView.swift in Sources */,
 				073C145D287F4290001B4BA6 /* ScannerViewController.swift in Sources */,
 				073C144F287F3D3E001B4BA6 /* BarcodeScannerSwiftUIApp.swift in Sources */,
 			);
